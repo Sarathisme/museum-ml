@@ -14,5 +14,5 @@ SGDClassifier and RandomForestClassifier algorithms are used to achieve accuraci
 
 ## Dataset link
 
-The dataset is taken from the below mentioned link
+The dataset is taken from the mentioned link
 https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
